@@ -9,7 +9,10 @@ npm run dev
 # or
 yarn dev
 ```
+the env files were commited and you just need click on sign in and make the login
 
+credentials: admin@gmail.com
+password: 123456
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
